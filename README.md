@@ -1,3 +1,5 @@
+Project built during Trybe course.
+
 Q&A game application;
 
 link: https://triviamarinafischer.netlify.app/
