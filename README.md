@@ -1,4 +1,5 @@
 Project built during Trybe course.
+Participants: Marco Souza, Amanda Sottani, Carlos Rosa.
 
 Q&A game application;
 
